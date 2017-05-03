@@ -24,4 +24,51 @@
 
 /* Posititoning Classes */
 
+.shadow.boxes {
+  width: 32%;
+  margin-top: 1em;
+  margin-right: 0.9em;
+  display: inline-block;
+}
 
+.shadow.last {
+  width: 32%;
+  margin-top: 1em;
+  display: inline-block;
+}
+
+.border_right.boxes {
+  width: 32%;
+  margin-right: 0.9em;
+  display: inline-block;
+}
+
+.last {
+  float: right;
+  width: 32%;
+  margin-top: 0em;
+  display: inline-block;
+}
+
+.third {
+	display: inline;
+	width: 32%;
+}
+
+/* Positioning ID's */
+
+#summer {
+	float: left;
+	width: 66%;
+}
+
+#archive {
+	float: right;
+	width: 32%;
+  font-size: 16px;
+  padding-bottom: 24px;
+}
+
+#featured {
+  margin-top: 0.4em;
+}
